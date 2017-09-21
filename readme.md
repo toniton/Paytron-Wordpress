@@ -1,4 +1,4 @@
-# Rave Payment Forms
+# Paytron Payment Forms
 
  - **Contributors:** bosunolanrewaju
  - **Tags:** rave, payment form, payment gateway, bank account, credit card, debit card, nigeria, kenya, international, mastercard, visa
@@ -34,11 +34,11 @@ Rave is available in:
 ### Automatic Installation
 *   Login to your WordPress Dashboard.
 *   Click on "Plugins > Add New" from the left menu.
-*   In the search box type __Rave Payment Forms__.
-*   Click on __Install Now__ on __Rave Payment Forms__ to install the plugin on your site.
+*   In the search box type __Paytron Payment Forms__.
+*   Click on __Install Now__ on __Paytron Payment Forms__ to install the plugin on your site.
 *   Confirm the installation.
 *   Activate the plugin.
-*   Go to "Rave > Settings" from the left menu to configure the plugin.
+*   Go to "Paytron > Settings" from the left menu to configure the plugin.
 
 
 ### Manual Installation
@@ -53,7 +53,7 @@ For FTP manual installation, [check here](http://codex.wordpress.org/Managing_Pl
 
 
 ### Configure the plugin
-To configure the plugin, go to __Rave > Settings__ from the left menu.
+To configure the plugin, go to __Paytron > Settings__ from the left menu.
 
 ###
 ![Rave Settings Screenshot](https://cloud.githubusercontent.com/assets/8383666/21610555/f1b32abc-d1c8-11e6-8d53-e77c9e35a6c7.png)
@@ -109,7 +109,7 @@ With attributes and button text: _email_, _amount_
 
 The shortcode can be added via Visual Composer elements.
 
-* On Visual Composer __Add Element__ dialog, click on "__Rave Forms__" and select the type of form you want to include on your page.
+* On Visual Composer __Add Element__ dialog, click on "__Paytron Forms__" and select the type of form you want to include on your page.
 ![Visual Composer Screenshot 1](https://cloud.githubusercontent.com/assets/8383666/21606192/20887a10-d1ae-11e6-85f7-6f8771cb8688.png)
 ###
 
@@ -124,7 +124,7 @@ The shortcode can be added via Visual Composer elements.
 
 ## Transaction List ##
 
-All the payments made through the forms to Rave can be accessed on __Rave > Transactions__ page.
+All the payments made through the forms to Rave can be accessed on __Paytron > Transactions__ page.
 
 ![Rave Transactions Screenshot](https://cloud.githubusercontent.com/assets/8383666/21606454/01022040-d1b0-11e6-8c61-755cea93ea14.png)
 
